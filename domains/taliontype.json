@@ -1,1 +1,11 @@
-h
+{
+  "description": "TalionType typing speed test website",
+  "repo": "https://github.com/talionlabs/taliontype.github.io",
+  "owner": {
+    "username": "talionlabs",
+    "email": "talionlabs@gmail.com"
+  },
+  "record": {
+    "CNAME": "talionlabs.github.io"
+  }
+}
